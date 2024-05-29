@@ -77,4 +77,5 @@ const stringArray = insertAtBeginning(['a', 'b', 'c'], 'd')
 //is used for that function, execution,
 //that type is locked in and known.
 //And that allows you to get the best
-//of both worlds, flexibility and type safety.
+
+of both worlds, flexibility and type safety.
