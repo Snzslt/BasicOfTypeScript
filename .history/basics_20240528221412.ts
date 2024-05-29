@@ -29,7 +29,7 @@ type Person = {
 
 let person: Person;
 
-person = {
+person = {å
   name: 'Max',
   age: 32
 };
